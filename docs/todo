@@ -1,0 +1,29 @@
+-- IOT-UI --
+A simple and elegant framework to create UI's with a small code.
+
+Characteristics:
+- Update only if it's necessary (pseudo-static). 
+- Reactive -> Goto brainstorm.pseudocode:REACTIVE_EXAMPLE
+- Little code, big interaction.
+- Multiplatform.
+- Small packages.
+- Readeable.
+
+TODO:
+- FontDrawer -> How to draw text with differents fonts.  i was thinking in a python wrapper with Pillow
+- ImageDrawer -> make your dreams come true.
+- Socket server:
+    - Main:
+        - Structure of the data.
+    - Interaction:
+        - Use a another server (http for API)
+        - All in JSON
+            - {state: 0} || {state: "text"}
+    
+- Debugger.
+    - Show elements relation and events.
+
+CODE:
+- Ports:
+    - Main server: 540
+    - Interaction server: 545
