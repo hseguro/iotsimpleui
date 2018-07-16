@@ -6,7 +6,7 @@ A simple tools to write graphics directly in the framebuffer with just a few lib
 To create the main program `make server` and run `iotsimpleui_server` (use socket server)
   - `make server.a || make server.ad` it's for debug the packets, errors, handlers, etc.
 
-The command `make viewer` it's for read a framebuffer or a virtual framebuffer and create a development enviroment for your beautiful project.
+The command `make viewer` it's for read a framebuffer or a virtual framebuffer and create a development enviroment for your beautiful project. See https://github.com/hseguro/linux-module-virtfb
 
 `iotui_test.cpp` is suppose the base for every project
 
