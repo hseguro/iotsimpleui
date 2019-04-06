@@ -33,8 +33,3 @@ Example:
   - Cobol (.DATA 000) //I don't how write in cobol
   - Turing Code (AAAA)
   - Ruby (0%)
-  
-## License
-- 1.0 Don't be a bad person:
-  - 1.1 It's my project you can use it but not steal it
-  - 1.2 If you see an error, wrong code, misspelled words, etc. SAY IT
